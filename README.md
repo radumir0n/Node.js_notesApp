@@ -20,6 +20,8 @@ $ npm install yargs
 
 ## Usage
 
+The app creates a file in a .json format for storing notes.
+
 #### Examples:
 
 ```bash
