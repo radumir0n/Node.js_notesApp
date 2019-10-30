@@ -1,4 +1,4 @@
-# Project Title 
+# Notes App
 
 It's a simple Node.js app for adding/reading/listing/removing notes through the console in a json format.
 
